@@ -1,0 +1,4 @@
+/disk1/rongrong/scan/train_xyz_rgb_geo_0.025_60000/scene0001_01.txt
+/disk1/rongrong/scan/train_xyz_rgb_geo_0.025_60000/scene0005_00.txt
+/disk1/rongrong/scan/train_xyz_rgb_geo_0.025_60000/scene0005_01.txt
+/disk1/rongrong/scan/train_xyz_rgb_geo_0.025_60000/scene0009_00.txt
